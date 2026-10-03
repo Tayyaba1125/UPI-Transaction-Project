@@ -29,7 +29,7 @@ An interactive Power BI dashboard that analyzes UPI transactions for the year 20
 
 ## Tools Used
 
-- Power BI Desktop
+- Power BI Desktop,Dax,Power Query Editor
   
 ## How to Use
 
