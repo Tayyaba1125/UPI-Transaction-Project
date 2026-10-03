@@ -36,4 +36,4 @@ An interactive Power BI dashboard that analyzes UPI transactions for the year 20
 1. Download `UPI Transaction Analysis.pbix`
 2. Open it in Power BI Desktop
 3. Use the slicers and bookmark buttons to explore 
-- Power Query (data cleaning and transformation)
+
